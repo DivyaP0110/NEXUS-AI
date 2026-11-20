@@ -1,0 +1,61 @@
+task_id,task_name,assigned_employee_id,required_skill,complexity,estimated_hours,deadline_days,dependency_count,employee_workload_hours,is_delayed,status
+T001,Develop API,E08,Python,4,12,7,0,170,1,Delayed
+T002,Bug Fixing,E02,ML,1,14,14,1,85,0,On Track
+T003,Model Training,E07,ML,3,4,12,1,116,0,On Track
+T004,Database Design,E08,Python,4,16,6,2,170,1,Delayed
+T005,Bug Fixing,E04,Python,5,3,13,2,85,1,Delayed
+T006,Database Design,E04,ML,1,24,7,2,85,0,On Track
+T007,System Integration,E03,SQL,3,3,8,0,52,0,On Track
+T008,Report Generation,E07,ML,4,10,14,1,116,0,On Track
+T009,System Integration,E01,SQL,3,20,3,1,128,1,Delayed
+T010,System Integration,E03,Java,2,14,10,2,52,1,Delayed
+T011,Bug Fixing,E02,ML,2,19,12,1,85,1,Delayed
+T012,Bug Fixing,E06,SQL,2,7,10,1,54,0,On Track
+T013,Model Training,E08,Python,1,20,12,2,170,0,On Track
+T014,Database Design,E04,ML,3,13,8,0,85,1,Delayed
+T015,Data Processing,E01,SQL,3,17,10,1,128,1,Delayed
+T016,Data Processing,E08,Python,3,16,8,1,170,1,Delayed
+T017,Database Design,E02,ML,4,2,5,1,85,1,Delayed
+T018,Bug Fixing,E03,SQL,5,21,1,0,52,0,On Track
+T019,Database Design,E08,Python,2,23,5,1,170,1,Delayed
+T020,Software Testing,E05,Java,4,24,10,1,74,1,Delayed
+T021,Develop API,E05,Testing,1,9,1,0,74,0,On Track
+T022,Report Generation,E07,ML,4,12,11,0,116,1,Delayed
+T023,Database Design,E07,Java,1,13,10,1,116,0,On Track
+T024,Report Generation,E01,SQL,2,17,9,1,128,1,Delayed
+T025,Software Testing,E02,Python,1,9,14,1,85,1,Delayed
+T026,Bug Fixing,E04,ML,2,19,14,0,85,1,Delayed
+T027,Develop API,E06,SQL,4,12,11,0,54,1,Delayed
+T028,Bug Fixing,E02,Python,5,4,7,2,85,1,Delayed
+T029,Bug Fixing,E05,Java,1,12,12,0,74,1,Delayed
+T030,Data Processing,E07,Java,4,11,5,1,116,1,Delayed
+T031,Develop API,E04,Python,4,3,11,1,85,0,On Track
+T032,System Integration,E02,Python,1,9,10,0,85,0,On Track
+T033,Report Generation,E01,Python,3,20,3,0,128,1,Delayed
+T034,Develop API,E06,Testing,3,9,9,1,54,0,On Track
+T035,Software Testing,E08,Python,3,13,7,2,170,0,On Track
+T036,Software Testing,E04,ML,3,23,3,1,85,0,On Track
+T037,Software Testing,E05,Testing,5,9,8,1,74,1,Delayed
+T038,Data Processing,E01,SQL,2,21,1,2,128,1,Delayed
+T039,Database Design,E01,SQL,4,17,2,0,128,1,Delayed
+T040,Develop API,E07,ML,4,23,11,0,116,1,Delayed
+T041,Database Design,E07,ML,5,7,4,0,116,1,Delayed
+T042,Report Generation,E05,Java,2,9,12,1,74,0,On Track
+T043,Report Generation,E01,SQL,5,16,5,1,128,1,Delayed
+T044,Model Training,E06,SQL,5,6,3,1,54,1,Delayed
+T045,System Integration,E07,Java,5,5,13,0,116,0,On Track
+T046,Model Training,E08,Testing,2,22,2,1,170,1,Delayed
+T047,Develop API,E08,Python,2,17,6,1,170,0,On Track
+T048,Develop API,E07,ML,2,8,1,2,116,1,Delayed
+T049,Model Training,E08,Python,5,5,11,0,170,0,On Track
+T050,Model Training,E07,Java,5,3,3,0,116,1,Delayed
+T051,Database Design,E08,Testing,2,24,7,1,170,0,On Track
+T052,Develop API,E05,Testing,1,7,4,0,74,0,On Track
+T053,Software Testing,E07,ML,1,8,8,2,116,0,On Track
+T054,System Integration,E08,Python,5,2,11,0,170,0,On Track
+T055,Model Training,E05,Testing,3,4,8,2,74,0,On Track
+T056,Report Generation,E02,Python,3,17,5,2,85,0,On Track
+T057,Develop API,E03,Java,3,14,3,1,52,0,On Track
+T058,Report Generation,E02,ML,4,11,1,2,85,1,Delayed
+T059,Develop API,E07,ML,3,12,9,2,116,0,On Track
+T060,Model Training,E06,SQL,2,20,7,0,54,0,On Track

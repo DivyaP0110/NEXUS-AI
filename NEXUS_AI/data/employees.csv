@@ -1,0 +1,9 @@
+employee_id,name,skills,weekly_capacity_hours,available,current_workload_hours
+E01,Arun,"Python,SQL",40,True,128
+E02,Priya,"Python,ML",40,True,85
+E03,Rahul,"Java,SQL",40,True,52
+E04,Divya,"ML,Python",40,True,85
+E05,Karthik,"Java,Testing",40,True,74
+E06,Meena,"SQL,Testing",40,True,54
+E07,Vikram,"ML,Java",40,True,116
+E08,Sneha,"Python,Testing",40,True,170

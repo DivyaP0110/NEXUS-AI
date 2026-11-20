@@ -1,0 +1,11 @@
+task_id,task_name,assigned_employee_id,required_skill,complexity,estimated_hours,deadline_days,dependency_count,employee_workload_hours,is_delayed,status,impact_type
+T009,System Integration,E01,SQL,3,20,3,1,128,1,Delayed,Directly Assigned
+T011,Bug Fixing,E02,ML,2,19,12,1,85,1,Delayed,Dependency Impact
+T015,Data Processing,E01,SQL,3,17,10,1,128,1,Delayed,Directly Assigned
+T024,Report Generation,E01,SQL,2,17,9,1,128,1,Delayed,Directly Assigned
+T031,Develop API,E04,Python,4,3,11,1,85,0,On Track,Dependency Impact
+T033,Report Generation,E01,Python,3,20,3,0,128,1,Delayed,Directly Assigned
+T037,Software Testing,E05,Testing,5,9,8,1,74,1,Delayed,Dependency Impact
+T038,Data Processing,E01,SQL,2,21,1,2,128,1,Delayed,Directly Assigned
+T039,Database Design,E01,SQL,4,17,2,0,128,1,Delayed,Directly Assigned
+T043,Report Generation,E01,SQL,5,16,5,1,128,1,Delayed,Directly Assigned

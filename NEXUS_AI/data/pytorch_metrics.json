@@ -1,0 +1,9 @@
+{
+    "model": "PyTorch Neural Network",
+    "accuracy": 66.67,
+    "precision": 63.64,
+    "recall": 87.5,
+    "f1_score": 73.68,
+    "training_records": 45,
+    "testing_records": 15
+}

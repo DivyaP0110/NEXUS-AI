@@ -1,0 +1,9 @@
+{
+    "model": "Random Forest",
+    "accuracy": 66.67,
+    "precision": 61.54,
+    "recall": 100.0,
+    "f1_score": 76.19,
+    "training_records": 45,
+    "testing_records": 15
+}

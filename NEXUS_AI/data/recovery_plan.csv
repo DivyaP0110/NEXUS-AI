@@ -1,0 +1,8 @@
+task_id,task_name,required_skill,original_employee,new_employee,new_employee_name,estimated_hours,projected_workload,utilization,recovery_status
+T009,System Integration,SQL,E01,E03,Rahul,20,72,72.0,Within planning capacity
+T015,Data Processing,SQL,E01,E06,Meena,17,71,71.0,Within planning capacity
+T024,Report Generation,SQL,E01,E06,Meena,17,88,88.0,Within planning capacity
+T033,Report Generation,Python,E01,E02,Priya,20,105,105.0,Capacity exceeded - review required
+T038,Data Processing,SQL,E01,E03,Rahul,21,93,93.0,Within planning capacity
+T039,Database Design,SQL,E01,E06,Meena,17,105,105.0,Capacity exceeded - review required
+T043,Report Generation,SQL,E01,E03,Rahul,16,109,109.0,Capacity exceeded - review required
